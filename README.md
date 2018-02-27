@@ -1,2 +1,2 @@
 # RandyHThurber.github.io
-Randy Thurbers github repository
+This is me just feeling my way around the github .....hello world, how ya doin??
